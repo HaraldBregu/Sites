@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Sites
 
-Personal: https://haraldbregu.github.io/Sites/personal
-Example: https://haraldbregu.github.io/Sites/examples
+[Personal page](https://haraldbregu.github.io/Sites/personal)
+[Example page](https://haraldbregu.github.io/Sites/examples)
 
 ### Markdown
 
