@@ -1,0 +1,12 @@
+
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "3XXXXX9M83.io.branch-labs.Branchster",
+        "paths": [ "NOT /e/*", "*", "/", "/archives/201?/*" ]
+      }
+    ]
+  }
+}
