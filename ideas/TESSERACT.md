@@ -5,17 +5,21 @@ This app is created to show demos of Machine Learning Models. The basic idea is 
 ## Package
 The package is a JSON file that contain all information of the author, final app, model, functions, actions.
 
-- name
-- description
+- name (the name of the package/app that solve a problem)
+- description (short description of the package)
 - version
 - license
 - author
-- function (link to function)
+- function
 
 ```JSON
 {
   "name" : "AGEFinder",
-  "description" : "I can find your exact age."
+  "description" : "I can find your exact age.",
+  "version" : "0.9.0",
+  "license" : "MIT",
+  "author" : "John Doe",
+  "function" : { ... }
 }
 ```
 
