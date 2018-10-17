@@ -72,9 +72,10 @@ The model is the most important file for the package, is the file pre-trained fo
     "currency" : "EUR"
   },
   "input" : {
-    "type" : "image",
-    "data" : ""
+    "type" : "image"
+  },
+  "output" : {
+    "type" : "text"
   }
-
 }
 ```
