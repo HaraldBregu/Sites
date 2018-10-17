@@ -1,0 +1,41 @@
+{
+  "id" : "KJ32794KLJNL34KJLK4",
+  "name" : "AGEFinder",
+  "description" : "I can find your exact age.",
+  "version" : "0.9.0",
+  "license" : "MIT",
+  "author" : "John Doe",
+  "function" : {
+    "models" : [
+      {
+        "id" : "KJ32794KLJNL34KJLK4",
+        "name" : "AgeNet",
+        "description" : "Model trained to predict age based on a picture of a face.",
+        "version" : "0.9.1",
+        "license" : "MIT",
+        "author" : "John Doe",
+        "privacy" : {
+          "public_read" : true,
+          "public_write" : false
+        },
+        "price" : {
+          "amount" : "234",
+          "currency" : "EUR"
+        },
+        "file" : {
+          "url" : "https://"
+        },
+        "input" : {
+          "type" : "image"
+        },
+        "output" : {
+          "type" : "text"
+        }
+      }
+    ],
+    "plugins" : [ "Camera", "Microphone", "Geolocation", "Accelerometer" ],
+    "inputs" : [],
+    "outputs" : [],
+    "actions" : []
+  }
+}
