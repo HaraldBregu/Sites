@@ -19,30 +19,62 @@ The package is a JSON file that contain all information of the author, final app
   "version" : "0.9.0",
   "license" : "MIT",
   "author" : "John Doe",
-  "function" : { ... }
+  "function" : { }
 }
 ```
-
 
 ## Function
 The function is an important sub-level of the package and is responsible on showing user interface, user experience, actions to make.
 You can ask the operative system to use plugins as Camera, Microphone, Geolocation etc. The models that you are going to use in the app. The inputs that user has to give to make the app work and the output that user expect to get.
 
-- models [Avnet(in out), AgeNet(in out), MNIST(in out)]
-- plugins [camera, microphone, geolocation, accelerometer]
+- models (list of all models that you will use)
+- plugins (the plugins that you will use from the OS)
 - inputs []
 - outputs []
 - actions []
+
+```JSON
+{
+  "models" : [],
+  "plugins" : [ "Camera", "Microphone", "Geolocation", "Accelerometer" ],
+  "inputs" : [],
+  "outputs" : [],
+  "actions" : []
+}
+```
 
 ## Model
 The model is the most important file for the package, is the file pre-trained for Machine Learning. You can get his information from the package file but the model is on remote repository or downloaded in local. The model basically are shared between developers if public, and purchasable if are trained with private or custom data.
 
 - name
 - description
-- version (incremental)
+- version
 - license
 - author
-- privacy (private, public)
-- input (type)
-- output (type, data)
-- price (free)
+- privacy
+- price
+- input
+- output
+
+```JSON
+{
+  "name" : "AgeNet",
+  "description" : "Model trained to predict age based on a picture of a face.",
+  "version" : "0.9.1",
+  "license" : "MIT",
+  "author" : "John Doe",
+  "privacy" : {
+    "public_read" : true,
+    "public_write" : false
+  },
+  "price" : {
+    "amount" : "234",
+    "currency" : "EUR"
+  },
+  "input" : {
+    "type" : "image",
+    "data" : ""
+  }
+
+}
+```
