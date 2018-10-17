@@ -1,0 +1,14 @@
+{
+  "name": "Image finder",
+  "description" : "The network from the paper 'MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications', trained on the ImageNet dataset.",
+  "author": "Harald Bregu",
+  "model" : {
+    "name": "MobileNet",
+    "description" : "The network from the paper 'MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications', trained on the ImageNet dataset.",
+    "version" : "0.0.9",
+    "author" : ""
+  },
+  "inputs" : [],
+  "outputs" : [],
+  "actions" : [],
+}

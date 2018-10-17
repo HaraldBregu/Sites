@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>RisoItaliano | Il portale del riso</title>
+	<atom:link href="https://www.risoitaliano.eu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.risoitaliano.eu</link>
+	<description>Riso Italiano è un quotidiano online dedicato al riso. Si occupa di coltivazione, mercati, leggi e ricerca scientifica ed è presente sui principali social network.</description>
+	<lastBuildDate>Thu, 27 Sep 2018 20:30:09 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+	<image>
+		<url>https://www.risoitaliano.eu/wp-content/uploads/2016/05/lombardiabella.png</url>
+		<title>This is the image</title>
+		<link>https://www.risoitaliano.eu/wp-content/uploads/2016/05/lombardiabella.png</link>
+		<description>The description of the image.</description>
+	</image>
+
+	<item>
+		<title>IL PSR LOMBARDO ACCELERA</title>
+		<link>https://www.risoitaliano.eu/il-psr-lombardo-accelera/</link>
+		<pubDate>Thu, 27 Sep 2018 20:26:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Norme e tributi]]></category>
+		<category><![CDATA[Lombardia]]></category>
+		<category><![CDATA[PSR]]></category>
+
+		<guid isPermaLink="false">https://www.risoitaliano.eu/?p=26251</guid>
+		<description><![CDATA[L'approvazione delle modifiche in sede Ue sblocca una serie di operazioni]]></description>
+	<image>https://www.risoitaliano.eu/wp-content/uploads/2016/05/lombardiabella.png</image>	</item>
+	<item>
+		<title>LA GUERRA TRA IL NILO E IL RISO</title>
+		<link>https://www.risoitaliano.eu/la-guerra-tra-il-nilo-e-il-riso/</link>
+		<pubDate>Thu, 27 Sep 2018 20:22:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Internazionale]]></category>
+		<category><![CDATA[egitto]]></category>
+
+		<guid isPermaLink="false">https://www.risoitaliano.eu/?p=26249</guid>
+		<description><![CDATA[Dietro la scelta di coltivare meno riso nel Paese africano c'è il declino del Delta]]></description>
+	<image>https://www.risoitaliano.eu/wp-content/uploads/2018/09/Unknown.jpeg</image>	</item>
+		<item>
+		<title>ASCIUTTA ET VILLORESI</title>
+		<link>https://www.risoitaliano.eu/asciutta-et-villoresi/</link>
+		<pubDate>Thu, 27 Sep 2018 16:48:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Tecnica]]></category>
+		<category><![CDATA[ASCIUTTA]]></category>
+		<category><![CDATA[VILLORESI]]></category>
+
+		<guid isPermaLink="false">https://www.risoitaliano.eu/?p=26259</guid>
+		<description><![CDATA[Il programma di asciugatura dei canali- Folli: l'abbiamo ridotto al minimo]]></description>
+	<image>https://www.risoitaliano.eu/wp-content/uploads/2016/01/Canale_Villoresi_Parabiago.jpg</image>	</item>
+		<item>
+		<title>DISINFESTAZIONE BIO? SI PUÒ</title>
+		<link>https://www.risoitaliano.eu/disinfestazione-bio-si-puo-2/</link>
+		<pubDate>Thu, 27 Sep 2018 16:31:19 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Non solo riso]]></category>
+		<category><![CDATA[Tecnica]]></category>
+		<category><![CDATA[newpharm]]></category>
+		<category><![CDATA[phygrain]]></category>
+		<category><![CDATA[Phytorob®bio]]></category>
+
+		<guid isPermaLink="false">https://www.risoitaliano.eu/?p=25850</guid>
+		<description><![CDATA[Newpharm propone Pygrain per una protezione efficace]]></description>
+	<image>https://www.risoitaliano.eu/wp-content/uploads/2018/08/soluzioni-pygrain-phytorob-biosol-2-642x371.jpg</image>	</item>
+		<item>
+		<title>OLTRE I LIMITI ECOLOGICI</title>
+		<link>https://www.risoitaliano.eu/oltre-i-limiti-ecologici/</link>
+		<pubDate>Thu, 27 Sep 2018 16:29:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Non solo riso]]></category>
+		<category><![CDATA[zicari]]></category>
+
+		<guid isPermaLink="false">https://www.risoitaliano.eu/?p=26246</guid>
+		<description><![CDATA[Libro di Giuseppe Zicari su ambiente, salute e cultura non rinnovabili]]></description>
+	<image>https://www.risoitaliano.eu/wp-content/uploads/2014/12/diserbo-in-acqua.jpg</image>	</item>
+		<item>
+		<title>FERRERO INCONTRA LA BASF</title>
+		<link>https://www.risoitaliano.eu/ferrero-incontra-la-basf/</link>
+		<pubDate>Thu, 27 Sep 2018 13:49:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Risicoltura]]></category>
+		<category><![CDATA[BASF]]></category>
+		<category><![CDATA[FERRERO]]></category>
+
+		<guid isPermaLink="false">https://www.risoitaliano.eu/?p=26242</guid>
+		<description><![CDATA[Dopo le polemiche montate dai Cinque Stelle, l'assessore all'agricoltura piemontese fa il punto con la multinazionale]]></description>
+	<image>https://www.risoitaliano.eu/wp-content/uploads/2015/10/FERRERO3.jpg</image>	</item>
+		<item>
+		<title>LINEE GUIDA CONTRO LE RESISTENZE</title>
+		<link>https://www.risoitaliano.eu/linee-guida-contro-le-resistenze/</link>
+		<pubDate>Thu, 27 Sep 2018 12:33:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Dossier]]></category>
+		<category><![CDATA[gire]]></category>
+		<category><![CDATA[RESISTENZE]]></category>
+
+		<guid isPermaLink="false">https://www.risoitaliano.eu/?p=26239</guid>
+		<description><![CDATA[Il Gire ha pubblicato le linee guida contro le resistenze del riso]]></description>
+	<image>https://www.risoitaliano.eu/wp-content/uploads/2015/09/giavone-resistente.jpg</image>	</item>
+		<item>
+		<title>DIVIETO DI BRUCIARE LE PAGLIE</title>
+		<link>https://www.risoitaliano.eu/divieto-di-bruciare-le-paglie/</link>
+		<pubDate>Thu, 27 Sep 2018 05:54:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Norme e tributi]]></category>
+		<category><![CDATA[PAGLIE]]></category>
+
+		<guid isPermaLink="false">https://www.risoitaliano.eu/?p=26221</guid>
+		<description><![CDATA[Il Piemonte e la Lombardia vietano la pratica dal primo ottobre al 31 marzo]]></description>
+	<image>https://www.risoitaliano.eu/wp-content/uploads/2017/10/PAGLIE4.jpg</image>	</item>
+		<item>
+		<title>DISINFESTAZIONE NATURALE DEL RACCOLTO</title>
+		<link>https://www.risoitaliano.eu/disinfestazione-naturale-del-raccolto/</link>
+		<pubDate>Wed, 26 Sep 2018 20:35:50 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Risicoltura]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[newpharm]]></category>
+		<category><![CDATA[siliconsec]]></category>
+
+		<guid isPermaLink="false">https://www.risoitaliano.eu/?p=25859</guid>
+		<description><![CDATA[Da Newpharm un nuovo insetticida e acaricida biologico a base di Terra di diatomee]]></description>
+	<image>https://www.risoitaliano.eu/wp-content/uploads/2018/08/siliconsec-ok.jpg</image>	</item>
+		<item>
+		<title>IL VALORE DEI NUMERI</title>
+		<link>https://www.risoitaliano.eu/il-valore-dei-numeri/</link>
+		<pubDate>Wed, 26 Sep 2018 20:20:13 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Risicoltura]]></category>
+		<category><![CDATA[mascellino]]></category>
+
+		<guid isPermaLink="false">https://www.risoitaliano.eu/?p=26232</guid>
+		<description><![CDATA[Gian Luca Mascellino analizza il tema della trasparenza delle informazioni]]></description>
+	<image>https://www.risoitaliano.eu/wp-content/uploads/2016/06/Mietitrebbia_17.jpg</image>	</item>
+	</channel>
+</rss>
