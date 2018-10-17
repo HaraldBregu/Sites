@@ -5,14 +5,22 @@ This app is created to show demos of Machine Learning Models. The basic idea is 
 ## Package
 The package is a JSON file that contain all information of the author, final app, model, functions, actions.
 
-- name (unique)
+- name
 - description
 - version
 - license
 - author
 - function (link to function)
 
-## Function (UI UX)
+```JSON
+{
+  "name" : "AGEFinder",
+  "description" : "I can find your exact age."
+}
+```
+
+
+## Function
 The function is an important sub-level of the package and is responsible on showing user interface, user experience, actions to make.
 You can ask the operative system to use plugins as Camera, Microphone, Geolocation etc. The models that you are going to use in the app. The inputs that user has to give to make the app work and the output that user expect to get.
 
