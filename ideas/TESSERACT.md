@@ -5,6 +5,7 @@ This app is created to show demos of Machine Learning Models. The basic idea is 
 ## Package
 The package is a JSON file that contain all information of the author, final app, model, functions, actions.
 
+- id
 - name (the name of the package/app that solve a problem)
 - description (short description of the package)
 - version
@@ -14,6 +15,7 @@ The package is a JSON file that contain all information of the author, final app
 
 ```JSON
 {
+  "id" : "KJ32794KLJNL34KJLK4",
   "name" : "AGEFinder",
   "description" : "I can find your exact age.",
   "version" : "0.9.0",
@@ -46,6 +48,7 @@ You can ask the operative system to use plugins as Camera, Microphone, Geolocati
 ## Model
 The model is the most important file for the package, is the file pre-trained for Machine Learning. You can get his information from the package file but the model is on remote repository or downloaded in local. The model basically are shared between developers if public, and purchasable if are trained with private or custom data.
 
+- id
 - name
 - description
 - version
@@ -53,11 +56,13 @@ The model is the most important file for the package, is the file pre-trained fo
 - author
 - privacy
 - price
+- file
 - input
 - output
 
 ```JSON
 {
+  "id" : "KJ32794KLJNL34KJLK4",
   "name" : "AgeNet",
   "description" : "Model trained to predict age based on a picture of a face.",
   "version" : "0.9.1",
@@ -70,6 +75,9 @@ The model is the most important file for the package, is the file pre-trained fo
   "price" : {
     "amount" : "234",
     "currency" : "EUR"
+  },
+  "file" : {
+    "url" : "https://"
   },
   "input" : {
     "type" : "image"
