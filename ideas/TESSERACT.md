@@ -21,27 +21,27 @@ The package is a JSON file that contain all information of the author, final app
   "version" : "0.9.0",
   "license" : "MIT",
   "author" : "John Doe",
-  "function" : { }
+  "application" : { }
 }
 ```
 
-## Function
-The function is an important sub-level of the package and is responsible on showing user interface, user experience, actions to make.
+## Application
+The Application is an important sub-level of the package and is responsible on showing user interface, user experience, actions to make.
 You can ask the operative system to use plugins as Camera, Microphone, Geolocation etc. The models that you are going to use in the app. The inputs that user has to give to make the app work and the output that user expect to get.
 
-- models (list of all models that you will use)
 - plugins (the plugins that you will use from the OS)
-- inputs []
-- outputs []
-- actions []
+- models (list of all models that you will use)
+- inputs (list of inputs and data to pass)
+- outputs (list of outputs and data to show)
+- actions (list of action)
 
 ```JSON
 {
-  "models" : [],
   "plugins" : [ "Camera", "Microphone", "Geolocation", "Accelerometer" ],
-  "inputs" : [],
-  "outputs" : [],
-  "actions" : []
+  "models" : [{}],
+  "inputs" : [{}],
+  "outputs" : [{}],
+  "actions" : [{}]
 }
 ```
 
@@ -85,5 +85,37 @@ The model is the most important file for the package, is the file pre-trained fo
   "output" : {
     "type" : "text"
   }
+}
+```
+
+## Input
+The application can have many inputs. An input is data that you will send to the application. It can be any kind of data from any plugins.
+
+```JSON
+{
+  "type" : "Camera",
+  "get_data" : ["image_data", "audio_data"]
+}
+```
+
+## Output
+The application can show many output. An output is data that you will show from application.
+
+```JSON
+{
+  "type" : "Image",
+  "set_data" : ["string"]
+}
+```
+
+## Action
+The action is what the application will do with models, inputs and outputs.
+
+```JSON
+{
+  "type" : "Call",
+  "use_model" : [],
+  "function" : "call",
+  "data" : "43255"
 }
 ```
