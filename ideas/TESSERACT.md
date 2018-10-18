@@ -15,7 +15,7 @@ The package is a JSON file that contain all information of the author, final app
 
 ```JSON
 {
-  "id" : "KJ32794KLJNL34KJLK4",
+  "id" : "WEEWF32442",
   "name" : "AGEFinder",
   "description" : "I can find your exact age.",
   "version" : "0.9.0",
@@ -93,8 +93,8 @@ The application can have many inputs. An input is data that you will send to the
 
 ```JSON
 {
-  "type" : "Camera",
-  "get_data" : ["image_data", "audio_data"]
+  "data_type" : "float",
+  "plugins" : ["camera", "audio_data"]
 }
 ```
 
