@@ -8,6 +8,9 @@ This file is an example of the control file, that manage the views, controls.
 
 // Control.file
 
+Device("3434", Microphone)
+Device("3434", Camera)
+
 View("id_298665", white, padding(20))
 
 Label("id_2343", "Harald", red, multiline, top(34), bottom(3), backgroundWhite)
