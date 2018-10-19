@@ -21,4 +21,6 @@ Button("id_2343", "Button name", red, multiline, top(34), bottom(3), "background
 
 })
 
+Table("ifdsf", "white", )
+
 ```
