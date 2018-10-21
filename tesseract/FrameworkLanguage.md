@@ -8,19 +8,26 @@ This file is an example of the control file, that manage the views, controls.
 
 // Control.file
 
-Device("3434", Microphone)
+Device(id: "3434", use: Microphone)
+
 Device("3434", Camera)
 
-View("id_298665", white, padding(20))
+View("main", white, padding(20))
 
-Label("id_2343", "Harald", red, multiline, top(34), bottom(3), backgroundWhite)
+Label("name", View("main") , "Harald", red, multiline, top(34), bottom(3), backgroundWhite)
 
 Button("id_2343", "Button name", red, multiline, top(34), bottom(3), "backgroundWhite", func() {
-
   Label("id_2343", "Harald Bregu")
-
 })
 
-Table("ifdsf", "white", )
+View("detail", white, padding(3), {
+  Button("id_2343", "Button name", red, multiline, top(34), bottom(3), "backgroundWhite", func() {
+    Label("id_2343", "Harald Bregu")
+  })
+})
+
+View("4o54453t", red, top(34), bottom(3))
+
+Table("main", "white").rows({ 45 }).view({ View("4o54453t") })
 
 ```
